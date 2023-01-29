@@ -8,6 +8,7 @@ This bank works in Python and it connects to a database on MySQL
 It's based on a modern design of Tkinter, it's CustomTkinter
 
 <hr>
+
  - Consult your current money
  
  - Deposit money in your account
@@ -32,5 +33,10 @@ In user put:     admin
 In password put: root
 
 <hr>
+
+| DEPENDENCIES: |
+|--------------------------|
+| <a href="https://www.apachefriends.org/es/index.html">XAMPP<a> |
+ | <a href="https://www.heidisql.com">Heidi SQL<a> |
 
 I know that i could be optimized more but this is my first project on Tkinter :D
