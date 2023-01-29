@@ -1,0 +1,17 @@
+Thanks for downloading Digital Bank!
+
+1 - Download XAMPP and Heidi SQL and execute them
+
+2 - Import the SQL file
+
+3- Use
+
+
+
+If on start it, it gives you an error try this:
+
+Open CMD and put
+
+pip install tkinter
+pip install customtkinter
+pip install mysql.connector
