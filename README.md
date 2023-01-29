@@ -25,7 +25,7 @@ It's based on a modern design of Tkinter, it's CustomTkinter
 
 <hr>
 
-How to acces to Admin Panel:
+How to access to Admin Panel:
 
 In user put:     admin
 
